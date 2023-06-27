@@ -1,0 +1,38 @@
+.section-home{
+   
+    
+}
+.section-all{
+    height: 50vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+.div-left{
+    justify-self: center;
+}
+.img-comida{
+    height: 30vh;
+}
+.img-home{
+    height: 50vh;
+}
+.section-gastro{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+}
+.div-comida2{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    padding: 1rem;
+    border: 1px solid #000;
+    border-radius: 1em;
+    margin-bottom: 1vh;
+}
+.div-comida{
+    
+}

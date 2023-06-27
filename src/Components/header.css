@@ -1,0 +1,14 @@
+.header{
+    height: 15vh;
+    width: 100%;
+    border-bottom: 1px solid #000;
+}
+.ul-header{
+    list-style-type: none;
+    display: inline-flex;
+    font-size: 1rem;
+    
+}
+.li-header{
+    margin-right: 2vw;
+}
